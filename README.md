@@ -37,6 +37,8 @@ The script asks for the desired length, enforces a **minimum of 6 characters**, 
   - Symbols (punctuation)
 - Shuffled output for higher unpredictability.
 
+## 🖼 Example Output
+
 How many characters for the password? 
 
 10
