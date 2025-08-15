@@ -14,5 +14,7 @@ A Python script that generates secure, random passwords containing lowercase let
 Example:
 
 How many characters for the password? 
+
 10
+
 Gv3@t7%QyR
